@@ -1,5 +1,7 @@
 # PaoPaoTang
 
+![image](https://github.com/ZzzYL9/TinyChat/blob/master/image/register.png)
+
 ![image](https://github.com/ZzzYL9/PaoPaoTang/tree/main/image/1.jpg)
 
 ![image](https://github.com/ZzzYL9/PaoPaoTang/tree/main/image/2.jpg)
